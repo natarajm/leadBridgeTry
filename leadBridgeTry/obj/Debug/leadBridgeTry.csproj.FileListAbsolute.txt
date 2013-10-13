@@ -1,0 +1,5 @@
+C:\Documents and Settings\nataraj\My Documents\Visual Studio 2010\Projects\leadBridgeTry\leadBridgeTry\bin\leadBridgeTry.dll
+C:\Documents and Settings\nataraj\My Documents\Visual Studio 2010\Projects\leadBridgeTry\leadBridgeTry\bin\leadBridgeTry.pdb
+C:\Documents and Settings\nataraj\My Documents\Visual Studio 2010\Projects\leadBridgeTry\leadBridgeTry\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nataraj\My Documents\Visual Studio 2010\Projects\leadBridgeTry\leadBridgeTry\obj\Debug\leadBridgeTry.dll
+C:\Documents and Settings\nataraj\My Documents\Visual Studio 2010\Projects\leadBridgeTry\leadBridgeTry\obj\Debug\leadBridgeTry.pdb
